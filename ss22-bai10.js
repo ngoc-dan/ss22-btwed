@@ -1,4 +1,3 @@
-// B1:
 let arr = [];
 let choice;
 let menu = `
